@@ -36,4 +36,4 @@ Real-world macroeconomic datasets are notoriously noisy. A major focus of this p
 To view the code, methodologies, and visual diagnostics, simply click on the `Synaptica_Code.ipynb` file above. GitHub will render the notebook natively in your browser.
 
 ---
-*Author: Shreelakshmi Somayaji* | *Guide: Dr. Bhaskarjyoti Das*
+
